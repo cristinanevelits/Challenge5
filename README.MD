@@ -15,8 +15,7 @@ Challenge 5, Module 5, Berkeley BootCamp.
 ![Screenshot#1](https://github.com/cristinanevelits/Challenge5/blob/main/Develop/Assets/images/Screenshot%202023-10-26%20at%2012.34.25%20PM.png)
 ![Screenshot#2](https://github.com/cristinanevelits/Challenge5/blob/main/Develop/Assets/images/Screenshot%202023-10-26%20at%2012.34.39%20PM.png)
 
-## Link to deployed website:  https://cristinanevelits.github.io/Challenge5/Develop
-
+## Link to deployed website:  https://cristinanevelits.github.io/Challenge5/Develop/
 
 ## GitHub Repo link: https://github.com/cristinanevelits/Challenge5
 
