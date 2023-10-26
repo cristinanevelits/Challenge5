@@ -10,6 +10,8 @@ $(function () {
       .addClass("row time-block")
       .appendTo($(".container-fluid"));
 
+    const hourLabel = dayjs({ hour }).format("hA");
+
     const hourDiv = $("<div>")
       .addClass("col-2 col-md-1 hour text-center py-3")
       .text(hour === 12 ? `${hour}PM` : hour < 12 ? `${hour}AM` : `${hour - 12}PM`)
